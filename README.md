@@ -198,5 +198,5 @@ curl http://pili-zeus.qiniuapi.com/v2/puicrtmp?publishdomain=pili-publish.jztest
 	- 实现 FLV 文件直推
 
 ## 8. 说明
+项目由 Pili SDK 团队维护，有任何问题，可以提 PR 或者发送邮件到 pili-coresdk@qiniu.com
 
-本
